@@ -1,9 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,100:05070D&height=180&section=header&text=ANIL%20A&fontSize=64&fontColor=F8FAFC&fontAlignY=42&animation=twinkling" width="100%"/>
+  <img src="assets/header.png" width="100%" />
+
+  <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&pause=1400&color=94A3B8&center=true&vCenter=true&width=650&lines=Astrophysics+%26+Relativistic+N-Body+Simulations;Autonomous+AI+Agents+%26+Digital+Twins;Real-Time+Unity+3D+Physics+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1400&color=F8FAFC&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Unity+3D+Physics+%26+Game+Developer+%F0%9F%8E%AE;Astrophysics+%26+N-Body+Simulation+Creator+%F0%9F%AA%90" alt="Typing SVG" />
   </a>
 
   <br/><br/>

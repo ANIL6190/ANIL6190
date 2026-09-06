@@ -1,6 +1,12 @@
-# Hi, I'm Anil A 🌌🎮
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Anil%20A%20🌌&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-AI & ML Engineering Student | Game Developer | Astronomy Enthusiast
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Unity+3D+Physics+%26+Game+Developer+%F0%9F%8E%AE;Astrophysics+%26+N-Body+Simulation+Creator+%F0%9F%AA%90" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 I build **interactive 3D physics simulations**, **astrophysics engines**, **autonomous AI agents**, and **interactive experiences** in **Unity (C#)** and **Python**, with 3D assets crafted in **Blender**.
 
@@ -42,7 +48,19 @@ I build **interactive 3D physics simulations**, **astrophysics engines**, **auto
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 🏙️ 3D Isometric Contribution Skyline
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-view.svg">
+    <img alt="Anil's 3D Contribution Skyline" src="profile-3d-contrib/profile-night-view.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### 📊 GitHub Activity & Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ANIL6190&theme=tokyonight&hide_border=true" alt="Anil's GitHub Streak" width="49%" />
@@ -59,12 +77,3 @@ I build **interactive 3D physics simulations**, **astrophysics engines**, **auto
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-### 🐍 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANIL6190/ANIL6190/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANIL6190/ANIL6190/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ANIL6190/ANIL6190/output/github-contribution-grid-snake.svg">
-</picture>

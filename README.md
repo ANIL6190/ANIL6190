@@ -1,4 +1,3 @@
-# ANIL-A
 # Hi, I'm Anil A 🌌🎮
 
 AI & ML Engineering Student | Game Developer | Astronomy Enthusiast
@@ -43,9 +42,29 @@ I build **interactive 3D physics simulations**, **astrophysics engines**, **auto
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANIL6190&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIL6190&layout=compact&theme=radial" width="48%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ANIL6190&theme=tokyonight&hide_border=true" alt="Anil's GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANIL6190&theme=2077" alt="Anil's GitHub Stats" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANIL6190&theme=2077" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ANIL6190&theme=2077&utcOffset=5.5" alt="Productive Time" width="49%" />
+</p>
+
+---
+
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANIL6190/ANIL6190/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANIL6190/ANIL6190/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ANIL6190/ANIL6190/output/github-contribution-grid-snake.svg">
+</picture>

@@ -1,54 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Anil%20A%20🌌&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,100:05070D&height=180&section=header&text=ANIL%20A&fontSize=64&fontColor=F8FAFC&fontAlignY=42&animation=twinkling" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Unity+3D+Physics+%26+Game+Developer+%F0%9F%8E%AE;Astrophysics+%26+N-Body+Simulation+Creator+%F0%9F%AA%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&pause=1400&color=94A3B8&center=true&vCenter=true&width=650&lines=Astrophysics+%26+Relativistic+N-Body+Simulations;Autonomous+AI+Agents+%26+Digital+Twins;Real-Time+Unity+3D+Physics+Engines" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+
+  > *"Mankind was born on Earth. It was never meant to die here."* — **Interstellar**
+
 </div>
 
-<br/>
+---
 
-I build **interactive 3D physics simulations**, **astrophysics engines**, **autonomous AI agents**, and **interactive experiences** in **Unity (C#)** and **Python**, with 3D assets crafted in **Blender**.
+### 🌌 Overview
+
+I am an **AI & ML Engineering student** focused on **computational astrophysics**, **real-time 3D physics engines**, and **autonomous agents**. My work bridges fundamental physics equations with interactive 3D simulations in **Unity (C#)**, **Python**, and **Blender**.
 
 ---
 
-### 🔬 Core Focus Areas
+### 🔬 Core Disciplines
 
-- 🌌 **Astrophysics & Space Simulations:** Gravitational N-body mechanics, General Relativity visualization, and satellite conjunction tracking.
-- 🤖 **AI & Autonomous Systems:** Reinforcement Learning (PPO) using Unity ML-Agents, sensor-driven autonomous agents, and predictive ML models.
-- 🎨 **Game Development & 3D:** Unity URP, custom shaders, C# scripting, and 3D asset creation in Blender.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **🪐 Astrophysics & Celestial Mechanics:** N-body gravitational simulations, General Relativity spacetime curvature distortion, and Keplerian orbital collision tracking.
+- **🤖 Autonomous AI & Digital Twins:** Reinforcement Learning (PPO) via Unity ML-Agents, transient thermal ODE modeling, and sensor-driven decision systems.
+- **🎮 Real-Time Graphics Engine Dev:** Custom URP shaders, frame-rate independent physics loops, and 3D asset pipeline architecture.
 
 ---
 
-### 🔭 Featured Projects
+### 🔭 Selected Works
 
-#### 🌌 Astronomy & Astrophysics Simulations
-- 🪐 **[3-Body-Problem-Simulation](https://github.com/ANIL6190/3-Body-Problem-Simulation):** 3D N-body gravitational simulation in Unity URP featuring General Relativity spacetime fabric distortion, Plummer potential gravity wells, and real astronomical scaling.
-- 📡 **[AEGIS-TOWER](https://github.com/ANIL6190/AEGIS-TOWER):** Real-time AI-powered satellite collision risk monitoring system tracking orbital conjunctions via Keplerian propagation and ML trained on CelesTrak SOCRATES data.
-
-#### 🤖 AI & Autonomous Agents
-- 🏎️ **[SelfDrivingCar_simulation](https://github.com/ANIL6190/SelfDrivingCar_simulation):** Autonomous driving agent simulated in Unity using ML-Agents (PPO) with raycast distance sensors and checkpoint-based reward optimization.
-- 🧊 **[Ksheera-Raksha](https://github.com/ANIL6190/Ksheera-Raksha):** Low-cost 5-layer PCM & polyurethane insulated milk chilling digital twin combining Python transient thermal ODE physics with real-time Unity URP 3D heat-map visualization.
-
-#### 🌐 Web Platforms & Systems
-- 🏢 **[GharPayy](https://github.com/ANIL6190/GharPayy-A-Smart-PG-Booking-Platform):** Web-based platform simplifying PG accommodation discovery and bookings.
-- 🔍 **[Lost-and-Found-System](https://github.com/ANIL6190/Lost-and-Found-System):** Proximity matching platform powered by BFS graph algorithms, Trie prefix autocomplete, and MaxHeap priority queues.
+```
+├── 🪐 3-Body-Problem-Simulation
+│   └── 3D N-body gravitational engine in Unity URP featuring General Relativity 
+│       spacetime fabric distortion & Plummer potential gravity wells.
+│
+├── 📡 AEGIS-TOWER
+│   └── Real-time satellite collision risk monitoring system using Keplerian propagation 
+│       & ML trained on CelesTrak SOCRATES conjunction datasets.
+│
+├── 🏎️ SelfDrivingCar_simulation
+│   └── Autonomous driving agent trained in Unity using ML-Agents (PPO) with raycast 
+│       distance telemetry & checkpoint reward optimization.
+│
+└── 🧊 Ksheera-Raksha
+    └── Milk chilling digital twin combining Python transient thermal ODE physics 
+        with real-time Unity 3D thermal heat-map visualization.
+```
 
 ---
 
-### 🏙️ 3D Isometric Contribution Skyline
+### 🏙️ 3D Contribution Skyline
 
 <div align="center">
   <picture>
@@ -60,10 +62,10 @@ I build **interactive 3D physics simulations**, **astrophysics engines**, **auto
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 System Telemetry
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ANIL6190&theme=tokyonight&hide_border=true" alt="Anil's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=ANIL6190&theme=dark&hide_border=true&border=000000&background=090D16" alt="Anil's GitHub Streak" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANIL6190&theme=2077" alt="Anil's GitHub Stats" width="49%" />
 </p>
 
@@ -74,6 +76,6 @@ I build **interactive 3D physics simulations**, **astrophysics engines**, **auto
 
 ---
 
-### ⚡ Recent GitHub Activity
+### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->

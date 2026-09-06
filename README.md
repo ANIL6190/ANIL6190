@@ -4,7 +4,7 @@
 
   <br/><br/>
 
-  > *"Mankind was born on Earth. It was never meant to die here."* — **Interstellar**
+  > *"Mankind was born on Earth. It was never meant to die here."* 
 
 </div>
 

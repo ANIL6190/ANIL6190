@@ -24,25 +24,75 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ---
 
-### 🔭 Selected Works
+### 🛠️ Tech Stack & Tooling
 
-```
-├── 🪐 3-Body-Problem-Simulation
-│   └── 3D N-body gravitational engine in Unity URP featuring General Relativity 
-│       spacetime fabric distortion & Plummer potential gravity wells.
-│
-├── 📡 AEGIS-TOWER
-│   └── Real-time satellite collision risk monitoring system using Keplerian propagation 
-│       & ML trained on CelesTrak SOCRATES conjunction datasets.
-│
-├── 🏎️ SelfDrivingCar_simulation
-│   └── Autonomous driving agent trained in Unity using ML-Agents (PPO) with raycast 
-│       distance telemetry & checkpoint reward optimization.
-│
-└── 🧊 Ksheera-Raksha
-    └── Milk chilling digital twin combining Python transient thermal ODE physics 
-        with real-time Unity 3D thermal heat-map visualization.
-```
+<div align="center">
+
+#### 🪐 Physics Engines & 3D Simulation
+<p align="center">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/URP_&_Shaders-22272E?style=for-the-badge&logo=opengl&logoColor=55B3FF" alt="URP & Shaders" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+</p>
+
+#### 🧠 Artificial Intelligence & Deep Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Unity_ML--Agents-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity ML-Agents" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+#### 💻 Programming Languages & Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+</p>
+
+#### 🌐 Full-Stack & Developer Ecosystem
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+</div>
+
+---
+
+### 🔭 Selected Works & Projects
+
+<!--START_SECTION:projects-->
+- 🧊 **[Ksheera-Raksha](https://github.com/ANIL6190/Ksheera-Raksha)** &nbsp;`ShaderLab` `MATLAB` `Digital Twin` `Thermal Physics`
+  > Low-cost 5-layer PCM & polyurethane insulated milk chilling digital twin. Combines MATLAB transient thermal ODE physics simulation with a real-time Unity URP 3D heat-map visualization for small-scale dairy farmers.
+
+- 🪐 **[3-Body-Problem-Simulation](https://github.com/ANIL6190/3-Body-Problem-Simulation)** &nbsp;`Unity URP` `C#` `Astrophysics` `Physics Engine`
+  > 3D N-body gravitational simulation in Unity URP featuring General Relativity spacetime fabric distortion, Plummer potential gravity wells, Velocity Verlet physics, real astronomical scaling, and interactive multi-target orbit cameras.
+
+- 📡 **[AEGIS-TOWER](https://github.com/ANIL6190/AEGIS-TOWER)** &nbsp;`Keplerian Mechanics` `Python` `AI/ML` `CelesTrak`
+  > Real-time AI-powered satellite collision risk monitoring system — tracks orbital conjunctions using Keplerian propagation + ML models trained on CelesTrak SOCRATES data, with a live 3D tactical operations dashboard.
+
+- 🏠 **[GharPayy-A-Smart-PG-Booking-Platform](https://github.com/ANIL6190/GharPayy-A-Smart-PG-Booking-Platform)** &nbsp;`Next.js` `TypeScript` `Full-Stack Web`
+  > GharPayy is a web-based platform designed to simplify the process of finding and booking Paying Guest (PG) accommodations. It provides a centralized system where users can search, compare, and book PGs, while property owners can manage listings and bookings efficiently.
+
+- 🏎️ **[SlefDrivingCar_simulation](https://github.com/ANIL6190/SlefDrivingCar_simulation)** &nbsp;`Unity` `ML-Agents (PPO)` `Autonomous AI` `C#`
+  > Autonomous driving agent simulation in Unity using ML-Agents (PPO) with raycast distance sensors and checkpoint-based reward tracking.
+
+- 🔍 **[Lost-and-Found-System](https://github.com/ANIL6190/Lost-and-Found-System)** &nbsp;`Next.js` `TypeScript` `Graph / Trie Algorithms`
+  > Smart Lost & Found platform utilizing BFS graphs for proximity matching, Trie prefix tree autocomplete, MaxHeap priority queues, and LinkedList log feeds. Built with Next.js, TypeScript
+<!--END_SECTION:projects-->
 
 ---
 
@@ -74,4 +124,10 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `1d ago`
+- 🌱 Created branch `main` in [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `1d ago`
+- 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `1d ago`
+- 🌱 Created branch `main` in [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `1d ago`
+- ⭐ Starred [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `1d ago`
+- 🔨 Pushed **1 commit** to [`3-Body-Problem-Simulation`](https://github.com/ANIL6190/3-Body-Problem-Simulation) • `Aug 16, 2026`
 <!--END_SECTION:activity-->

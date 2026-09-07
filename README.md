@@ -91,10 +91,10 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `just now`
 - 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `1d ago`
 - 🌱 Created branch `main` in [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `1d ago`
 - 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `1d ago`
 - 🌱 Created branch `main` in [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `1d ago`
 - ⭐ Starred [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `1d ago`
-- 🔨 Pushed **1 commit** to [`3-Body-Problem-Simulation`](https://github.com/ANIL6190/3-Body-Problem-Simulation) • `Aug 16, 2026`
 <!--END_SECTION:activity-->

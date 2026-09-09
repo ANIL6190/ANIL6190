@@ -79,12 +79,12 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ANIL6190&theme=dark&hide_border=true&border=000000&background=090D16" alt="Anil's GitHub Streak" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANIL6190&theme=2077" alt="Anil's GitHub Stats" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Anil's GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANIL6190&theme=2077" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ANIL6190&theme=2077&utcOffset=5.5" alt="Productive Time" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="49%" />
 </p>
 
 ---

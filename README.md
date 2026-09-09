@@ -79,7 +79,7 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ANIL6190&theme=dark&hide_border=true&border=000000&background=090D16" alt="Anil's GitHub Streak" width="49%" />
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Anil's GitHub Stats" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="49%" />
 </p>
 
 <p align="center">

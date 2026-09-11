@@ -63,7 +63,7 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ---
 
-### 🏙️ 3D Contribution Skyline
+### 🏙️ Contribution Skyline
 
 <div align="center">
   <picture>

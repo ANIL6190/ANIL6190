@@ -42,6 +42,9 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 ### 🔭 Selected Works & Projects
 
 <!--START_SECTION:projects-->
+- 📡 **[AEGIS-TOWER](https://github.com/ANIL6190/AEGIS-TOWER)** &nbsp;`Keplerian Mechanics` `Python` `AI/ML` `CelesTrak`
+  > Real-time AI-powered satellite collision risk monitoring system — tracks orbital conjunctions using Keplerian propagation + ML models trained on CelesTrak SOCRATES data, with a live 3D tactical operations dashboard.
+
 - 🏎️ **[SlefDrivingCar_simulation](https://github.com/ANIL6190/SlefDrivingCar_simulation)** &nbsp;`Unity` `ML-Agents (PPO)` `Autonomous AI` `C#`
   > Autonomous driving agent simulation in Unity using ML-Agents (PPO) with raycast distance sensors and checkpoint-based reward tracking.
 
@@ -50,9 +53,6 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 - 🧊 **[Ksheera-Raksha](https://github.com/ANIL6190/Ksheera-Raksha)** &nbsp;`ShaderLab` `MATLAB` `Digital Twin` `Thermal Physics`
   > Low-cost 5-layer PCM & polyurethane insulated milk chilling digital twin. Combines MATLAB transient thermal ODE physics simulation with a real-time Unity URP 3D heat-map visualization for small-scale dairy farmers.
-
-- 📡 **[AEGIS-TOWER](https://github.com/ANIL6190/AEGIS-TOWER)** &nbsp;`Keplerian Mechanics` `Python` `AI/ML` `CelesTrak`
-  > Real-time AI-powered satellite collision risk monitoring system — tracks orbital conjunctions using Keplerian propagation + ML models trained on CelesTrak SOCRATES data, with a live 3D tactical operations dashboard.
 
 - 🏠 **[GharPayy-A-Smart-PG-Booking-Platform](https://github.com/ANIL6190/GharPayy-A-Smart-PG-Booking-Platform)** &nbsp;`Next.js` `TypeScript` `Full-Stack Web`
   > GharPayy is a web-based platform designed to simplify the process of finding and booking Paying Guest (PG) accommodations. It provides a centralized system where users can search, compare, and book PGs, while property owners can manage listings and bookings efficiently.
@@ -91,10 +91,10 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Pushed **1 commit** to [`SlefDrivingCar_simulation`](https://github.com/ANIL6190/SlefDrivingCar_simulation) • `3m ago`
-- 🔨 Pushed **1 commit** to [`3-Body-Problem-Simulation`](https://github.com/ANIL6190/3-Body-Problem-Simulation) • `11m ago`
-- 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `15m ago`
+- 🔨 Pushed **1 commit** to [`AEGIS-TOWER`](https://github.com/ANIL6190/AEGIS-TOWER) • `2m ago`
+- 🔨 Pushed **1 commit** to [`SlefDrivingCar_simulation`](https://github.com/ANIL6190/SlefDrivingCar_simulation) • `11m ago`
+- 🔨 Pushed **1 commit** to [`SlefDrivingCar_simulation`](https://github.com/ANIL6190/SlefDrivingCar_simulation) • `20m ago`
+- 🔨 Pushed **1 commit** to [`3-Body-Problem-Simulation`](https://github.com/ANIL6190/3-Body-Problem-Simulation) • `27m ago`
+- 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `31m ago`
 - 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `1d ago`
-- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `3d ago`
-- ⭐ Starred [`superplanehq/superplane`](https://github.com/superplanehq/superplane) • `2d ago`
 <!--END_SECTION:activity-->

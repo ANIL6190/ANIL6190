@@ -91,10 +91,10 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Pushed **1 commit** to [`SlefDrivingCar_simulation`](https://github.com/ANIL6190/SlefDrivingCar_simulation) • `5d ago`
-- 🔨 Pushed **1 commit** to [`3-Body-Problem-Simulation`](https://github.com/ANIL6190/3-Body-Problem-Simulation) • `5d ago`
-- 🔨 Pushed **1 commit** to [`AEGIS-TOWER`](https://github.com/ANIL6190/AEGIS-TOWER) • `5d ago`
-- 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `5d ago`
+- 🔨 Pushed **1 commit** to [`SlefDrivingCar_simulation`](https://github.com/ANIL6190/SlefDrivingCar_simulation) • `6d ago`
+- 🔨 Pushed **1 commit** to [`3-Body-Problem-Simulation`](https://github.com/ANIL6190/3-Body-Problem-Simulation) • `6d ago`
+- 🔨 Pushed **1 commit** to [`AEGIS-TOWER`](https://github.com/ANIL6190/AEGIS-TOWER) • `6d ago`
+- 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `6d ago`
 - 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `Sep 11, 2026`
 - 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `Sep 09, 2026`
 <!--END_SECTION:activity-->

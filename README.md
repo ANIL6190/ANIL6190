@@ -45,7 +45,7 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 - 📡 **[AEGIS-TOWER](https://github.com/ANIL6190/AEGIS-TOWER)** &nbsp;`Keplerian Mechanics` `Python` `AI/ML` `CelesTrak`
   > Real-time AI-powered satellite collision risk monitoring system — tracks orbital conjunctions using Keplerian propagation + ML models trained on CelesTrak SOCRATES data, with a live 3D tactical operations dashboard.
 
-- 🏎️ **[SlefDrivingCar_simulation](https://github.com/ANIL6190/SlefDrivingCar_simulation)** &nbsp;`Unity` `ML-Agents (PPO)` `Autonomous AI` `C#`
+- 🏎️ **[SlefDrivingCar_simulation](https://github.com/ANIL6190/SlefDrivingCar_simulation)** &nbsp;`Unity` `ML-Agents (PPO)` `Autonomous AI` `C#` &nbsp;🍴 1
   > Autonomous driving agent simulation in Unity using ML-Agents (PPO) with raycast distance sensors and checkpoint-based reward tracking.
 
 - 🪐 **[3-Body-Problem-Simulation](https://github.com/ANIL6190/3-Body-Problem-Simulation)** &nbsp;`Unity URP` `C#` `Astrophysics` `Physics Engine`
@@ -57,7 +57,7 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 - 🏠 **[GharPayy-A-Smart-PG-Booking-Platform](https://github.com/ANIL6190/GharPayy-A-Smart-PG-Booking-Platform)** &nbsp;`Next.js` `TypeScript` `Full-Stack Web`
   > GharPayy is a web-based platform designed to simplify the process of finding and booking Paying Guest (PG) accommodations. It provides a centralized system where users can search, compare, and book PGs, while property owners can manage listings and bookings efficiently.
 
-- 🔍 **[Lost-and-Found-System](https://github.com/ANIL6190/Lost-and-Found-System)** &nbsp;`Next.js` `TypeScript` `Graph / Trie Algorithms`
+- 🔍 **[Lost-and-Found-System](https://github.com/ANIL6190/Lost-and-Found-System)** &nbsp;`Next.js` `TypeScript` `Graph / Trie Algorithms` &nbsp;🍴 1
   > Smart Lost & Found platform utilizing BFS graphs for proximity matching, Trie prefix tree autocomplete, MaxHeap priority queues, and LinkedList log feeds. Built with Next.js, TypeScript
 <!--END_SECTION:projects-->
 
@@ -91,10 +91,10 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+- 🍴 Forked [`simran-s-patil/SurgeGuard-AI`](https://github.com/simran-s-patil/SurgeGuard-AI) • `58m ago`
 - 🔨 Pushed **1 commit** to [`SlefDrivingCar_simulation`](https://github.com/ANIL6190/SlefDrivingCar_simulation) • `Sep 13, 2026`
 - 🔨 Pushed **1 commit** to [`3-Body-Problem-Simulation`](https://github.com/ANIL6190/3-Body-Problem-Simulation) • `Sep 13, 2026`
 - 🔨 Pushed **1 commit** to [`AEGIS-TOWER`](https://github.com/ANIL6190/AEGIS-TOWER) • `Sep 13, 2026`
 - 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `Sep 13, 2026`
 - 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `Sep 11, 2026`
-- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `Sep 09, 2026`
 <!--END_SECTION:activity-->

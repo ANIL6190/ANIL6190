@@ -23,7 +23,7 @@ jobs:
           git config --global user.email "anandshobha36@gmail.com"
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main

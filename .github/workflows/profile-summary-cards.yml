@@ -17,6 +17,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+      - name: Set Git Identity
+        run: |
+          git config --global user.name "ANIL6190"
+          git config --global user.email "anandshobha36@gmail.com"
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -25,3 +29,4 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 5.5
           THEME_NAME: tokyonight
+

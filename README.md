@@ -42,6 +42,9 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 ### 🔭 Selected Works & Projects
 
 <!--START_SECTION:projects-->
+- 🚀 **[AI-Powered-Cybersecurity-Awareness-Assistant](https://github.com/ANIL6190/AI-Powered-Cybersecurity-Awareness-Assistant)** &nbsp;`Python`
+  > Interactive simulation and software engineering project.
+
 - 🔍 **[Lost-and-Found-System](https://github.com/ANIL6190/Lost-and-Found-System)** &nbsp;`Next.js` `TypeScript` `Graph / Trie Algorithms` &nbsp;🍴 1
   > Smart Lost & Found platform utilizing BFS graphs for proximity matching, Trie prefix tree autocomplete, MaxHeap priority queues, and LinkedList log feeds. Built with Next.js, TypeScript
 
@@ -56,9 +59,6 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 - 📡 **[AEGIS-TOWER](https://github.com/ANIL6190/AEGIS-TOWER)** &nbsp;`Keplerian Mechanics` `Python` `AI/ML` `CelesTrak`
   > Real-time AI-powered satellite collision risk monitoring system — tracks orbital conjunctions using Keplerian propagation + ML models trained on CelesTrak SOCRATES data, with a live 3D tactical operations dashboard.
-
-- 🚀 **[AI-Powered-Cybersecurity-Awareness-Assistant](https://github.com/ANIL6190/AI-Powered-Cybersecurity-Awareness-Assistant)** &nbsp;`Python`
-  > Interactive simulation and software engineering project.
 
 - 🏠 **[GharPayy-A-Smart-PG-Booking-Platform](https://github.com/ANIL6190/GharPayy-A-Smart-PG-Booking-Platform)** &nbsp;`Next.js` `TypeScript` `Full-Stack Web`
   > GharPayy is a web-based platform designed to simplify the process of finding and booking Paying Guest (PG) accommodations. It provides a centralized system where users can search, compare, and book PGs, while property owners can manage listings and bookings efficiently.
@@ -94,10 +94,10 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `7h ago`
-- 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `18h ago`
-- 🔨 Pushed **1 commit** to [`Lost-and-Found-System`](https://github.com/ANIL6190/Lost-and-Found-System) • `18h ago`
-- 🔨 Pushed **1 commit** to [`3-Body-Problem-Simulation`](https://github.com/ANIL6190/3-Body-Problem-Simulation) • `18h ago`
+- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `8h ago`
+- 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `19h ago`
+- 🔨 Pushed **1 commit** to [`Lost-and-Found-System`](https://github.com/ANIL6190/Lost-and-Found-System) • `19h ago`
+- 🔨 Pushed **1 commit** to [`3-Body-Problem-Simulation`](https://github.com/ANIL6190/3-Body-Problem-Simulation) • `19h ago`
 - 🔨 Pushed **1 commit** to [`AEGIS-TOWER`](https://github.com/ANIL6190/AEGIS-TOWER) • `19h ago`
 - 🌱 Created branch `main` in [`AI-Powered-Cybersecurity-Awareness-Assistant`](https://github.com/ANIL6190/AI-Powered-Cybersecurity-Awareness-Assistant) • `2d ago`
 <!--END_SECTION:activity-->

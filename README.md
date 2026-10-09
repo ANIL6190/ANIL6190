@@ -54,7 +54,7 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 - 🪐 **[3-Body-Problem-Simulation](https://github.com/ANIL6190/3-Body-Problem-Simulation)** &nbsp;`Unity URP` `C#` `Astrophysics` `Physics Engine`
   > 3D N-body gravitational simulation in Unity URP featuring General Relativity spacetime fabric distortion, Plummer potential gravity wells, Velocity Verlet physics, real astronomical scaling, and interactive multi-target orbit cameras.
 
-- 🏎️ **[SlefDrivingCar_simulation](https://github.com/ANIL6190/SlefDrivingCar_simulation)** &nbsp;`Unity` `ML-Agents (PPO)` `Autonomous AI` `C#` &nbsp;🍴 1
+- 🏎️ **[SelfDrivingCar_simulation](https://github.com/ANIL6190/SelfDrivingCar_simulation)** &nbsp;`C#` &nbsp;🍴 1
   > Autonomous driving agent simulation in Unity using ML-Agents (PPO) with raycast distance sensors and checkpoint-based reward tracking.
 
 - 📡 **[AEGIS-TOWER](https://github.com/ANIL6190/AEGIS-TOWER)** &nbsp;`Keplerian Mechanics` `Python` `AI/ML` `CelesTrak`
@@ -94,10 +94,10 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Pushed **1 commit** to [`AI-Powered-Cybersecurity-Awareness-Assistant`](https://github.com/ANIL6190/AI-Powered-Cybersecurity-Awareness-Assistant) • `2d ago`
-- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `4d ago`
-- 🔨 Pushed **1 commit** to [`SlefDrivingCar_simulation`](https://github.com/ANIL6190/SlefDrivingCar_simulation) • `5d ago`
-- 🔨 Pushed **1 commit** to [`AEGIS-TOWER`](https://github.com/ANIL6190/AEGIS-TOWER) • `5d ago`
+- 🍴 Forked [`aiori-hackathon/A3-PSXXX-TCXXX`](https://github.com/aiori-hackathon/A3-PSXXX-TCXXX) • `18m ago`
+- 🔨 Pushed **1 commit** to [`AI-Powered-Cybersecurity-Awareness-Assistant`](https://github.com/ANIL6190/AI-Powered-Cybersecurity-Awareness-Assistant) • `3d ago`
 - 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `5d ago`
+- 🔨 Pushed **1 commit** to [`SelfDrivingCar_simulation`](https://github.com/ANIL6190/SelfDrivingCar_simulation) • `6d ago`
+- 🔨 Pushed **1 commit** to [`AEGIS-TOWER`](https://github.com/ANIL6190/AEGIS-TOWER) • `6d ago`
 - 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `5d ago`
 <!--END_SECTION:activity-->

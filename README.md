@@ -42,6 +42,9 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 ### 🔭 Selected Works & Projects
 
 <!--START_SECTION:projects-->
+- 🚀 **[A3-PS001-TC197](https://github.com/ANIL6190/A3-PS001-TC197)** &nbsp;
+  > Interactive simulation and software engineering project.
+
 - 🚀 **[AI-Powered-Cybersecurity-Awareness-Assistant](https://github.com/ANIL6190/AI-Powered-Cybersecurity-Awareness-Assistant)** &nbsp;`Python`
   > Interactive simulation and software engineering project.
 
@@ -94,10 +97,10 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `11h ago`
-- 🍴 Forked [`aiori-hackathon/A3-PSXXX-TCXXX`](https://github.com/aiori-hackathon/A3-PSXXX-TCXXX) • `3d ago`
+- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `19h ago`
 - 🔨 Pushed **1 commit** to [`AI-Powered-Cybersecurity-Awareness-Assistant`](https://github.com/ANIL6190/AI-Powered-Cybersecurity-Awareness-Assistant) • `6d ago`
 - 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `Oct 04, 2026`
 - 🔨 Pushed **1 commit** to [`SelfDrivingCar_simulation`](https://github.com/ANIL6190/SelfDrivingCar_simulation) • `Oct 03, 2026`
 - 🔨 Pushed **1 commit** to [`AEGIS-TOWER`](https://github.com/ANIL6190/AEGIS-TOWER) • `Oct 03, 2026`
+- 🔨 Pushed **1 commit** to [`Ksheera-Raksha`](https://github.com/ANIL6190/Ksheera-Raksha) • `Oct 03, 2026`
 <!--END_SECTION:activity-->

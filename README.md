@@ -42,6 +42,9 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 ### 🔭 Selected Works & Projects
 
 <!--START_SECTION:projects-->
+- 🚀 **[ZeroTrace](https://github.com/ANIL6190/ZeroTrace)** &nbsp;`Kotlin`
+  > Interactive simulation and software engineering project.
+
 - 🚀 **[AI-Powered-Cybersecurity-Awareness-Assistant](https://github.com/ANIL6190/AI-Powered-Cybersecurity-Awareness-Assistant)** &nbsp;`Python`
   > Interactive simulation and software engineering project.
 

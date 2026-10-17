@@ -42,6 +42,9 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 ### 🔭 Selected Works & Projects
 
 <!--START_SECTION:projects-->
+- 🏎️ **[CARLA-Deep-RL](https://github.com/ANIL6190/CARLA-Deep-RL)** &nbsp;
+  > Interactive simulation and software engineering project.
+
 - 🚀 **[ZeroTrace](https://github.com/ANIL6190/ZeroTrace)** &nbsp;`Kotlin`
   > Interactive simulation and software engineering project.
 
@@ -97,10 +100,10 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Pushed **1 commit** to [`aiori-hackathon/A3-PS001-TC197`](https://github.com/aiori-hackathon/A3-PS001-TC197) • `2d ago`
-- 🔨 Pushed **1 commit** to [`ZeroTrace`](https://github.com/ANIL6190/ZeroTrace) • `2d ago`
-- 🌱 Created branch `main` in [`ZeroTrace`](https://github.com/ANIL6190/ZeroTrace) • `2d ago`
+- 🔨 Pushed **1 commit** to [`aiori-hackathon/A3-PS001-TC197`](https://github.com/aiori-hackathon/A3-PS001-TC197) • `3d ago`
+- 🔨 Pushed **1 commit** to [`ZeroTrace`](https://github.com/ANIL6190/ZeroTrace) • `3d ago`
+- 🌱 Created branch `main` in [`ZeroTrace`](https://github.com/ANIL6190/ZeroTrace) • `3d ago`
 - 🌱 Created branch `main` in [`aiori-hackathon/A3-PS001-TC197`](https://github.com/aiori-hackathon/A3-PS001-TC197) • `4d ago`
-- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `4d ago`
+- 🔨 Pushed **1 commit** to [`ANIL6190`](https://github.com/ANIL6190/ANIL6190) • `5d ago`
 - 🔨 Pushed **1 commit** to [`AI-Powered-Cybersecurity-Awareness-Assistant`](https://github.com/ANIL6190/AI-Powered-Cybersecurity-Awareness-Assistant) • `Oct 06, 2026`
 <!--END_SECTION:activity-->

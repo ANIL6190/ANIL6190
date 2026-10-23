@@ -42,6 +42,9 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 ### 🔭 Selected Works & Projects
 
 <!--START_SECTION:projects-->
+- 🚀 **[Kalki-Neon-Dharma](https://github.com/ANIL6190/Kalki-Neon-Dharma)** &nbsp;`C#`
+  > Interactive simulation and software engineering project.
+
 - 🏎️ **[CARLA-Deep-RL](https://github.com/ANIL6190/CARLA-Deep-RL)** &nbsp;
   > Interactive simulation and software engineering project.
 

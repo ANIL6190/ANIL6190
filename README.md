@@ -103,6 +103,5 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Pushed **1 commit** to [`aiori-hackathon/A3-PS001-TC197`](https://github.com/aiori-hackathon/A3-PS001-TC197) • `Oct 14, 2026`
-- 🔨 Pushed **1 commit** to [`ZeroTrace`](https://github.com/ANIL6190/ZeroTrace) • `Oct 14, 2026`
+_No recent public activity._
 <!--END_SECTION:activity-->

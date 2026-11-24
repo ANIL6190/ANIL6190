@@ -106,5 +106,6 @@ I am an **AI & ML Engineering student** focused on **computational astrophysics*
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+- 🌱 Created branch `main` in [`Edge-AI`](https://github.com/ANIL6190/Edge-AI) • `1d ago`
 - 🔨 Pushed **1 commit** to [`Edge-AI`](https://github.com/ANIL6190/Edge-AI) • `1d ago`
 <!--END_SECTION:activity-->
